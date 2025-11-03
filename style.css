@@ -4,6 +4,7 @@
     flex-direction: row;
     margin: 0 auto;
     width: fit-content;
+    
    
    
    
@@ -14,9 +15,6 @@
 .header{
     display: flex;
     justify-content: center;
-    
-    
-
 }
 
 p{
@@ -26,8 +24,7 @@ p{
 button{
     border: none;
     background-color: white;
-    
-
+    cursor: pointer;
 }
 
 h1{
@@ -40,6 +37,8 @@ h1{
     height: 30px;
     border-radius: 50%;
     border: solid 1px black;
+   
+
     
     
 
